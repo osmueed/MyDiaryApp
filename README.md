@@ -1,12 +1,12 @@
 # MyDiaryApp
-A minimal, distraction-free personal diary for Windows – no installation, no internet, just run the .exe and start writing.
+A minimal, distraction-free personal diary – no installation, no internet, just run the .exe and start writing.
 
 🗂️ Features
 Write and save daily entries
 
 View past notes by date
 
-Lightweight .exe file (no Python required)
+Lightweight .exe file 
 
 All data saved locally, privately
 
